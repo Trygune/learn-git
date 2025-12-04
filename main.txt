@@ -1,4 +1,8 @@
 ed first line
 ed line 2
 edit
-linewith vs code
+line with vs code
+line 8&9
+line 10
+line 11
+line 12
